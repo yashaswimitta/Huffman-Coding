@@ -29,7 +29,7 @@ reg no: 212221230062
 ```
 ``` Python
 # Get the input String
-string = 'from robomaster import robot'
+string = 'yashaswi mitta 212221230062'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
